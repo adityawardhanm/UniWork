@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class RelationalOp_Variable {
     public static void main(String[] args) {
         try {
+            //Following is an Example of Relational Operator using User Input
             Scanner sc = new Scanner(System.in);
             System.out.println("Enter number 1:");
             int a = sc.nextInt();
