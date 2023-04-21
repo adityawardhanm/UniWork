@@ -13,3 +13,5 @@ This Program can perform Following functions,
 •	Relaying Important Information from Manager to other staff through messages
 
 The Lukla Airport System has been made using Python and Integrated Usage of MYSQL. 
+
+From [adityawardhanm](https://github.com/adityawardhanm)
