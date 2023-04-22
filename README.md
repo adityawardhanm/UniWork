@@ -1,4 +1,4 @@
-# UniProjects
+# University Work
 
 This Repository contains all my University Experiments and Projects. 
 
