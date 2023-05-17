@@ -11,7 +11,7 @@ Currently,
 
 •	Java contains all Object Oriented Programming Experiments.
 
-•	Python contains my 12th Grade Project and other Experiments(in a Jupyter Notebook).
+•	Python contains University Projects in a Jupyter Notebook.
 
 P.S. The Projects inside are not subject to change due to Version updates in frameworks or languages.
 
