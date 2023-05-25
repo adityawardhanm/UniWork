@@ -5,7 +5,7 @@ struct node{
     int data;
     struct node*next;
 };
-void print(struct node*head){
+void printlist(struct node*head){
     struct node*temp=head;
     while (temp!=NULL){
         printf("%d",temp->data);
@@ -30,6 +30,6 @@ int main(){
     middle->next = last;
     last->next = NULL;
 
-    print(head);
-    print(middle);
+    printlist(head);
+    printlist(middle);
 }
