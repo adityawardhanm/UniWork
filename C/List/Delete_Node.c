@@ -38,23 +38,24 @@ void printlist(struct node* Node) {
 }
 
 int main() {
-    struct node*head=NULL;
-    struct node*middle=NULL;
-    struct node*last=NULL;
+    struct node *head = NULL;
+    struct node *middle = NULL;
+    struct node *last = NULL;
 
-    head= malloc(sizeof(struct node));
-    middle= malloc(sizeof(struct node));
-    last= malloc(sizeof(struct node));
+    head = malloc(sizeof(struct node));
+    middle = malloc(sizeof(struct node));
+    last = malloc(sizeof(struct node));
 
-    head->data=100;
-    middle->data=200;
-    last->data=300;
+    head->data = 100;
+    middle->data = 200;
+    last->data = 300;
 
     head->next = middle;
     middle->next = last;
     last->next = NULL;
 
     printlist(head);
-    delete_node(&head,200);
+    delete_node(&head, 200);
     printlist(head);
     return 0;
+}
