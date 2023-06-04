@@ -9,7 +9,7 @@ int josephus(int n, int k){
     }
 }
 
-int main()5
+int main()
 {
     int n, k;
     printf("Enter the value of n: ");
