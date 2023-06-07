@@ -54,9 +54,7 @@ int main() {
     quicksort(arr,0,n-1);
 
     printf("The Sorted Array:\n");
-    for(i = 0; i < n; i++){
-        printf("%d\n", arr[i]);
-    }
+    printlist(arr, n);
 
     return 0;
 }
