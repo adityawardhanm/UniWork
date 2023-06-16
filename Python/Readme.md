@@ -1,8 +1,7 @@
-## Python 
-This sub contains all the experiments conducted in Sem 2. 
-It includes basic experiments from basic operations to small projects like random name generator.
+# Python Programming
 
-The list of Experiments are as follows:
+
+Programs present in the sub-repo.
 
 •	Types of Variables
 
@@ -32,6 +31,6 @@ The list of Experiments are as follows:
 
 •	Random Password Generator
 
-P.S. Many more experiments were conducted but only the ones mentioned here were submitted for final evaluation.
+P.S. feel free to contact me to learn about any of these programs
 
 From [adityawardhanm](https://github.com/adityawardhanm)
